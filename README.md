@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/seemikehack/dieforge.svg?branch=master)](https://travis-ci.org/seemikehack/dieforge)
+
 # The DieForge d20 System
 A classic pen-and-paper mechanic, implemented in Javascript. Roll for success!
 
