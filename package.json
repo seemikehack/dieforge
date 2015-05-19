@@ -1,0 +1,40 @@
+{
+  "name": "DieForge",
+  "description": "A classic pen-and-paper mechanic, implemented in Javascript. Roll for success!",
+  "version": "0.1.0",
+  "keywords": [
+    "rpg",
+    "game",
+    "mechanic",
+    "d20"
+  ],
+  "homepage": "https://github.com/seemikehack/dieforge",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seemikehack/dieforge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seemikehack/dieforge/issues"
+  },
+  "license": "BSD 3-Clause",
+  "author": {
+    "name": "Michael Atkinson",
+    "email": "seemikehack@gmail.com",
+    "url": "https://github.com/seemikehack/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-coffee": "^0.13.0",
+    "grunt-contrib-jasmine": "^0.8.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-npm": "0.0.2",
+    "grunt-umd": "^2.3.3",
+    "grunt-umd-wrapper": "^0.4.0"
+  },
+  "scripts": {
+    "test": "grunt test:dev"
+  },
+  "readmeFilename": "README.md"
+}
